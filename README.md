@@ -1,6 +1,6 @@
 ## Hi there, I'm Tony 👋
 🧠 Computer science student at JKUAT <br/>
-✒️ I create web a variety applications <br/>
+✒️ I create a variety of web applications <br/>
 🌱 I’m currently learning Machine learning <br/> 
 📫 How to reach me: [instagram] https://www.instagram.com/tonn3y_/ <br/>
 
